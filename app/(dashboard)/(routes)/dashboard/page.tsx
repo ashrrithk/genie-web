@@ -17,7 +17,7 @@ const tools = [
     icon: MessageSquare,
     color: "text-violet-500",
     bgcolor: "bg-violet-500/10",
-    href: "/conversation",
+    href: "/chat",
   },
   {
     label: "Image Generation",

@@ -31,37 +31,37 @@ const routes = [
   },
   {
     label: "Chat with Genie",
-    href: "",
+    href: "/chat",
     icon: MessageSquare,
     color: "text-violet-500",
   },
   {
     label: "Image Generation",
-    href: "",
+    href: "/image",
     icon: ImageIcon,
     color: "text-pink-700",
   },
   {
     label: "Video Generation",
-    href: "",
+    href: "/video",
     icon: VideoIcon,
     color: "text-orange-700",
   },
   {
     label: "Music Generation",
-    href: "",
+    href: "music",
     icon: Music,
     color: "text-emerald-500",
   },
   {
     label: "Code Generation",
-    href: "",
+    href: "/code",
     icon: Code,
     color: "text-green-700",
   },
   {
     label: "Settings",
-    href: "",
+    href: "/settings",
     icon: Settings,
   },
 ];
